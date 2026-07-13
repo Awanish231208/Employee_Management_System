@@ -41,8 +41,6 @@ Update the database credentials in `hibernate.cfg.xml`.
 4. Update `hibernate.cfg.xml`.
 5. Run `App.java`.
 
-## 📸 Output
-
 
 ## 📚 Learning Outcomes
 - Hibernate Configuration
