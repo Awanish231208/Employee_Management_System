@@ -43,7 +43,7 @@ Update the database credentials in `hibernate.cfg.xml`.
 
 ## ScreenShot
 
-![Home Page](images/home.png)
+![Home Page](images/home.png.png)
 
 
 ## 📚 Learning Outcomes
