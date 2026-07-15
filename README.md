@@ -41,6 +41,10 @@ Update the database credentials in `hibernate.cfg.xml`.
 4. Update `hibernate.cfg.xml`.
 5. Run `App.java`.
 
+## ScreenShot
+
+![Home Page](images/home.png)
+
 
 ## 📚 Learning Outcomes
 - Hibernate Configuration
