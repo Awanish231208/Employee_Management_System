@@ -42,8 +42,10 @@ Update the database credentials in `hibernate.cfg.xml`.
 5. Run `App.java`.
 
 ## ScreenShot
-
+   ## Home Page
 ![Home Page](images/home.png.png)
+   ## Add Employee
+![Home Page](images/create.png.png)
 
 
 ## 📚 Learning Outcomes
